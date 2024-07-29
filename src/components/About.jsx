@@ -1,3 +1,4 @@
+import { FaDownload } from "react-icons/fa";
 import aboutImg from "../assets/about.jpg";
 import { ABOUT_TEXT } from "../constants";
 
@@ -18,6 +19,13 @@ const About = () => {
           <div className="flex justify-center lg:justify-start">
             <p className="my-2 max-w-xl py-6">{ABOUT_TEXT}</p>
           </div>
+          <a href="" className="button text-center">
+            Download CV{" "}
+            <span className="button__icon">
+              {" "}
+              <FaDownload />
+            </span>
+          </a>
         </div>
       </div>
     </div>

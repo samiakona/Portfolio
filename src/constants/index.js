@@ -8,34 +8,24 @@ export const HERO_CONTENT = `I am a passionate full stack developer with a knack
 export const ABOUT_TEXT = `
 This is me, Samia Akter Kona. I'm studying at the Bangladesh University of Business and Technology, Computer Science and Engineering department. I'm Completing my bachelor's degree in June 2024. I achieved many skills in Computer and programming related. I have technical software knowledge.  I also know about many programming languages like C, C+, Python and JAVA. In many online sites where regular organized many programming contests and problem-solving. I can easily learn any knowledge or any language.  I'm a fast learner. I have basic problem-solving knowledge.  And also solved many programming problems in online judges sites like Code Force, Code Chef, leetcode, Hakerrank, UVA online judge site, etc. I have worked with a variety of technologies, including React, Html, CSS, Bootstrap, MySQL, Javascript. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
-export const EXPERIENCES = [
+export const EDUCATION = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "August 2020 - June 2024",
+    school: "Bangladesh University of Business and Technology (BUBT)",
+    subject: "Computer Science and Enginerring (CSE)",
+    result: "CGPA 3.82 out of 4",
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "2016-2018",
+    school: "Sheheed Police Smrity College (SPSC)",
+    subject: "Science",
+    result: "GPA 4.83 out of 5",
   },
   {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "2014=2016",
+    school: "Mirpur Girls' Ideal Laboratory Institute (MGIL)",
+    subject: "Science",
+    result: "GPA 5.00 out of 5",
   },
 ];
 
